@@ -1,0 +1,31 @@
+﻿  ConsoleApplication2.cpp
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(17): warning C4101: ind: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(17): warning C4101: s: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(18): warning C4101: sp: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(12): warning C4101: t: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 2\consoleapplication2\consoleapplication2\module.h(22): warning C4101: j: неиспользованная локальная переменная
+  c:\users\ars\downloads\учеба\лабыплюсы\лаба 2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(41): note: см. ссылку на создание экземпляров функции шаблон при компиляции "T scalar<int>(T *,T *,int)"
+          with
+          [
+              T=int
+          ]
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 2\consoleapplication2\consoleapplication2\module.h(15): warning C4101: j: неиспользованная локальная переменная
+  c:\users\ars\downloads\учеба\лабыплюсы\лаба 2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(44): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void scalar1<int>(T *,T *,T *,int)"
+          with
+          [
+              T=int
+          ]
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 2\consoleapplication2\consoleapplication2\module.h(82): warning C4101: flag: неиспользованная локальная переменная
+  c:\users\ars\downloads\учеба\лабыплюсы\лаба 2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(48): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void sort_wst<int>(T *,int)"
+          with
+          [
+              T=int
+          ]
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 2\consoleapplication2\consoleapplication2\module.h(145): warning C4101: flag: неиспользованная локальная переменная
+  c:\users\ars\downloads\учеба\лабыплюсы\лаба 2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(65): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void sort_strok_wst<int>(T **,int,int)"
+          with
+          [
+              T=int
+          ]
+  ConsoleApplication2.vcxproj -> C:\Users\Ars\Downloads\Учеба\ЛабыПлюсы\Лаба 2\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\Ars\Downloads\Учеба\ЛабыПлюсы\Лаба 2\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Partial PDB)

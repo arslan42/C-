@@ -1,0 +1,37 @@
+// ConsoleApplication17.cpp: определяет точку входа для консольного приложения.
+//
+
+#include "stdafx.h"
+#include "matrix.h"
+#include "iostream"
+using namespace std;
+
+
+int _tmain(int argc, _TCHAR* argv[])
+{
+	int i,j,n,m; double s,d;
+	Matrixt<double> zt(1,1);
+	cin>>zt; cout<<" zt "<<endl; cout <<zt;
+	Matrixt<int> at(2,2);
+	Matrixt<int> *ct;
+	ct=new Matrixt<int> (2,2);
+	ct->setMatrixt_const();
+	cout<<" ct->getMatrix() "<<endl;
+	ct->getMatrix();
+	at=*ct;
+	cout<<" *ct->at "<<endl;
+	cout<<at;
+	d=at.gaus_t(); cout<<" d= "<<d;
+	cout<<endl<<zt;
+	Matrixt<int> pt(2,2);
+	cout<<" pt=at.transponirov() "<<endl;
+	pt=at.transponirov(); cout<<pt;
+	ct=at*pt;
+	at=*ct;
+	cout<<" at*pt "<<endl;
+	cout<<at;
+
+	system("pause");
+	return 0;
+}
+

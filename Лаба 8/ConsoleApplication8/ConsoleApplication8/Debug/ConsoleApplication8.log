@@ -1,0 +1,16 @@
+﻿  ConsoleApplication8.cpp
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 8\consoleapplication8\consoleapplication8\module.h(10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 8\consoleapplication8\consoleapplication8\module.h(17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 8\consoleapplication8\consoleapplication8\module.h(34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 8\consoleapplication8\consoleapplication8\module.h(38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 8\consoleapplication8\consoleapplication8\module.h(24): warning C4101: xp: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 8\consoleapplication8\consoleapplication8\module.h(61): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 8\consoleapplication8\consoleapplication8\module.h(62): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 8\consoleapplication8\consoleapplication8\module.h(74): warning C4101: pfa: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 8\consoleapplication8\consoleapplication8\module.h(74): warning C4101: pfb: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 8\consoleapplication8\consoleapplication8\module.h(165): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 8\consoleapplication8\consoleapplication8\consoleapplication8.cpp(17): warning C4101: k: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 8\consoleapplication8\consoleapplication8\consoleapplication8.cpp(20): warning C4101: x: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 8\consoleapplication8\consoleapplication8\consoleapplication8.cpp(17): warning C4101: n: неиспользованная локальная переменная
+  ConsoleApplication8.vcxproj -> C:\Users\Ars\Downloads\Учеба\ЛабыПлюсы\Лаба 8\ConsoleApplication8\Debug\ConsoleApplication8.exe
+  ConsoleApplication8.vcxproj -> C:\Users\Ars\Downloads\Учеба\ЛабыПлюсы\Лаба 8\ConsoleApplication8\Debug\ConsoleApplication8.pdb (Partial PDB)

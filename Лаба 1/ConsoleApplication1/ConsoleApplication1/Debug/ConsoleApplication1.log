@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 1\consoleapplication1\consoleapplication1\module.h(84): warning C4715: get_index: значение возвращается не при всех путях выполнения
+  ConsoleApplication1.vcxproj -> C:\Users\Ars\Downloads\Учеба\ЛабыПлюсы\Лаба 1\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Ars\Downloads\Учеба\ЛабыПлюсы\Лаба 1\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)

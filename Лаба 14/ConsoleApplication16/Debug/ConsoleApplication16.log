@@ -1,0 +1,12 @@
+﻿  ConsoleApplication16.cpp
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 14\consoleapplication16\module.h(79): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note:  см. объявление "strcpy"
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 14\consoleapplication16\module.h(129): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 14\consoleapplication16\module.h(129): warning C4305: =: усечение из "double" в "float"
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 14\consoleapplication16\consoleapplication16.cpp(18): warning C4101: k: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 14\consoleapplication16\consoleapplication16.cpp(12): warning C4101: st1: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 14\consoleapplication16\consoleapplication16.cpp(12): warning C4101: j: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 14\consoleapplication16\consoleapplication16.cpp(12): warning C4101: i: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 14\consoleapplication16\consoleapplication16.cpp(12): warning C4101: n: неиспользованная локальная переменная
+  ConsoleApplication16.vcxproj -> C:\Users\Ars\Downloads\Учеба\ЛабыПлюсы\Лаба 14\Debug\ConsoleApplication16.exe
+  ConsoleApplication16.vcxproj -> C:\Users\Ars\Downloads\Учеба\ЛабыПлюсы\Лаба 14\Debug\ConsoleApplication16.pdb (Partial PDB)

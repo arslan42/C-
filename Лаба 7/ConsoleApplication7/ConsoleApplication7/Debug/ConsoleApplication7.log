@@ -1,0 +1,11 @@
+﻿  ConsoleApplication7.cpp
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 7\consoleapplication7\consoleapplication7\module.h(51): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 7\consoleapplication7\consoleapplication7\consoleapplication7.cpp(11): warning C4101: m: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 7\consoleapplication7\consoleapplication7\consoleapplication7.cpp(13): warning C4101: a: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 7\consoleapplication7\consoleapplication7\consoleapplication7.cpp(13): warning C4101: b: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 7\consoleapplication7\consoleapplication7\consoleapplication7.cpp(13): warning C4101: x: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 7\consoleapplication7\consoleapplication7\consoleapplication7.cpp(11): warning C4101: j: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 7\consoleapplication7\consoleapplication7\consoleapplication7.cpp(11): warning C4101: i: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 7\consoleapplication7\consoleapplication7\consoleapplication7.cpp(11): warning C4101: n: неиспользованная локальная переменная
+  ConsoleApplication7.vcxproj -> C:\Users\Ars\Downloads\Учеба\ЛабыПлюсы\Лаба 7\ConsoleApplication7\Debug\ConsoleApplication7.exe
+  ConsoleApplication7.vcxproj -> C:\Users\Ars\Downloads\Учеба\ЛабыПлюсы\Лаба 7\ConsoleApplication7\Debug\ConsoleApplication7.pdb (Partial PDB)

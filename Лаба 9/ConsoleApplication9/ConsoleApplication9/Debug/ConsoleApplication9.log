@@ -1,0 +1,10 @@
+﻿  ConsoleApplication9.cpp
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 9\consoleapplication9\consoleapplication9\module.h(86): warning C4101: k: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 9\consoleapplication9\consoleapplication9\consoleapplication9.cpp(12): warning C4101: m: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 9\consoleapplication9\consoleapplication9\consoleapplication9.cpp(12): warning C4101: j: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 9\consoleapplication9\consoleapplication9\consoleapplication9.cpp(12): warning C4101: i: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 9\consoleapplication9\consoleapplication9\consoleapplication9.cpp(12): warning C4101: n: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 9\consoleapplication9\consoleapplication9\module.h(74): warning C4715: Matrix::operator=: значение возвращается не при всех путях выполнения
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 9\consoleapplication9\consoleapplication9\module.h(159): warning C4715: Matrix::operator-: значение возвращается не при всех путях выполнения
+  ConsoleApplication9.vcxproj -> C:\Users\Ars\Downloads\Учеба\ЛабыПлюсы\Лаба 9\ConsoleApplication9\Debug\ConsoleApplication9.exe
+  ConsoleApplication9.vcxproj -> C:\Users\Ars\Downloads\Учеба\ЛабыПлюсы\Лаба 9\ConsoleApplication9\Debug\ConsoleApplication9.pdb (Partial PDB)

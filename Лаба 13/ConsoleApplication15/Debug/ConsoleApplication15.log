@@ -1,0 +1,13 @@
+﻿  ConsoleApplication15.cpp
+c:\users\ars\downloads\учеба\лабыплюсы\consoleapplication15\consoleapplication15\consoleapplication15.cpp(14): warning C4101: m: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\consoleapplication15\consoleapplication15\consoleapplication15.cpp(14): warning C4101: k: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\consoleapplication15\consoleapplication15\consoleapplication15.cpp(14): warning C4101: n: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\consoleapplication15\consoleapplication15\module.h(148): warning C4101: k: неиспользованная локальная переменная
+  c:\users\ars\downloads\учеба\лабыплюсы\consoleapplication15\consoleapplication15\module.h(147): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\ars\downloads\учеба\лабыплюсы\consoleapplication15\consoleapplication15\consoleapplication15.cpp(83): note: см. ссылку на создание экземпляров функции шаблон при компиляции "int Poisk_graf<Rebro,Tnum>::poisk_sh(void)"
+  c:\users\ars\downloads\учеба\лабыплюсы\consoleapplication15\consoleapplication15\consoleapplication15.cpp(80): note: см. в справочнике сведения о создании экземпляров класса класс шаблон при компиляции "Poisk_graf<Rebro,Tnum>"
+c:\users\ars\downloads\учеба\лабыплюсы\consoleapplication15\consoleapplication15\module.h(148): warning C4101: i: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\consoleapplication15\consoleapplication15\module.h(148): warning C4101: n: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\consoleapplication15\consoleapplication15\module.h(177): warning C4715: Poisk_graf<Rebro,Tnum>::poisk_sh: значение возвращается не при всех путях выполнения
+  ConsoleApplication15.vcxproj -> C:\Users\Ars\Downloads\Учеба\ЛабыПлюсы\ConsoleApplication15\Debug\ConsoleApplication15.exe
+  ConsoleApplication15.vcxproj -> C:\Users\Ars\Downloads\Учеба\ЛабыПлюсы\ConsoleApplication15\Debug\ConsoleApplication15.pdb (Partial PDB)

@@ -1,0 +1,6 @@
+﻿  ConsoleApplication12.cpp
+c:\users\ars\downloads\учеба\лабыплюсы\consoleapplication12\consoleapplication12\consoleapplication12.cpp(14): warning C4101: m: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\consoleapplication12\consoleapplication12\consoleapplication12.cpp(14): warning C4101: k: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\consoleapplication12\consoleapplication12\consoleapplication12.cpp(14): warning C4101: j: неиспользованная локальная переменная
+  ConsoleApplication12.vcxproj -> C:\Users\Ars\Downloads\Учеба\ЛабыПлюсы\ConsoleApplication12\Debug\ConsoleApplication12.exe
+  ConsoleApplication12.vcxproj -> C:\Users\Ars\Downloads\Учеба\ЛабыПлюсы\ConsoleApplication12\Debug\ConsoleApplication12.pdb (Partial PDB)

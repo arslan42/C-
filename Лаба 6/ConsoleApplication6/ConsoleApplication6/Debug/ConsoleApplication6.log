@@ -1,0 +1,10 @@
+﻿  ConsoleApplication6.cpp
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 6\consoleapplication6\consoleapplication6\module.h(74): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 6\consoleapplication6\consoleapplication6\module.h(83): warning C4101: y: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 6\consoleapplication6\consoleapplication6\module.h(83): warning C4101: x: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 6\consoleapplication6\consoleapplication6\module.h(99): warning C4101: y: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 6\consoleapplication6\consoleapplication6\module.h(99): warning C4101: x: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 6\consoleapplication6\consoleapplication6\consoleapplication6.cpp(11): warning C4101: i: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 6\consoleapplication6\consoleapplication6\consoleapplication6.cpp(11): warning C4101: n: неиспользованная локальная переменная
+  ConsoleApplication6.vcxproj -> C:\Users\Ars\Downloads\Учеба\ЛабыПлюсы\Лаба 6\ConsoleApplication6\Debug\ConsoleApplication6.exe
+  ConsoleApplication6.vcxproj -> C:\Users\Ars\Downloads\Учеба\ЛабыПлюсы\Лаба 6\ConsoleApplication6\Debug\ConsoleApplication6.pdb (Partial PDB)

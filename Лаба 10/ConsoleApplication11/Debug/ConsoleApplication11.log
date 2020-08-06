@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  main.cpp
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 10\consoleapplication11\main.cpp(6): warning C4101: m: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 10\consoleapplication11\main.cpp(7): warning C4101: s: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 10\consoleapplication11\main.cpp(6): warning C4101: j: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 10\consoleapplication11\main.cpp(6): warning C4101: i: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 10\consoleapplication11\main.cpp(6): warning C4101: n: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 10\consoleapplication11\module.h(145): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  c:\users\ars\downloads\учеба\лабыплюсы\лаба 10\consoleapplication11\module.h(136): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\ars\downloads\учеба\лабыплюсы\лаба 10\consoleapplication11\main.cpp(27): note: см. ссылку на создание экземпляров функции шаблон при компиляции "double Matrix<int>::gaus_t(void)"
+  c:\users\ars\downloads\учеба\лабыплюсы\лаба 10\consoleapplication11\main.cpp(15): note: см. в справочнике сведения о создании экземпляров класса класс шаблон при компиляции "Matrix<int>"
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 10\consoleapplication11\module.h(137): warning C4101: jmax: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 10\consoleapplication11\module.h(137): warning C4101: l: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 10\consoleapplication11\module.h(138): warning C4101: t: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 10\consoleapplication11\module.h(137): warning C4101: flag: неиспользованная локальная переменная
+c:\users\ars\downloads\учеба\лабыплюсы\лаба 10\consoleapplication11\module.h(102): warning C4715: Matrix<int>::operator=: значение возвращается не при всех путях выполнения
+  ConsoleApplication11.vcxproj -> C:\Users\Ars\Downloads\Учеба\ЛабыПлюсы\Лаба 10\Debug\ConsoleApplication11.exe
+  ConsoleApplication11.vcxproj -> C:\Users\Ars\Downloads\Учеба\ЛабыПлюсы\Лаба 10\Debug\ConsoleApplication11.pdb (Partial PDB)
